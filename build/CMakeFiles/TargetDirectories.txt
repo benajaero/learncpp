@@ -1,0 +1,3 @@
+/Users/StoneofHelp/Programming/learncpp/build/CMakeFiles/rebuild_cache.dir
+/Users/StoneofHelp/Programming/learncpp/build/CMakeFiles/edit_cache.dir
+/Users/StoneofHelp/Programming/learncpp/build/CMakeFiles/learncpp.dir

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/rgba.h
+
+/Users/StoneofHelp/Programming/learncpp/main.cpp
+rgba.h
+/Users/StoneofHelp/Programming/learncpp/rgba.h
+
+/Users/StoneofHelp/Programming/learncpp/rgba.cpp
+iostream
+-
+rgba.h
+/Users/StoneofHelp/Programming/learncpp/rgba.h
+
